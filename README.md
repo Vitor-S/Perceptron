@@ -98,7 +98,7 @@ Caso queira, é possível observar também o cálculo da reta tangente neste gr�
 
 Bom, então só precisamos descobrir qual a derivada da função erro, para assim, podermos obter a inclinação em um determinado ponto e poder dar um passo na direção que diminui o erro.
 
-Não explicarei detalhadamente como calcular a derivada da função erro aqui, temos entendido o conceito de derivada e sabendo que a derivada da função de erro é **e'(w) = 2 * (valor predito - valor esperado) * x**, ou seja, a inclinação no ponto onde **x = 1.6** será:
+Não explicarei detalhadamente como calcular a derivada da função de erro aqui, temos entendido o conceito de derivada e sabendo que a derivada da função de erro é **e'(w) = 2 * (valor predito - valor esperado) * x**, ou seja, a inclinação no ponto onde **w = 1.6** será:
 
     e'(w) = 2 * (16 - 14) * (-10)
     e'(w) = 2 * 2 * (-10)
