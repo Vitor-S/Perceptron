@@ -37,7 +37,7 @@ Vamos supor então que queremos converter **-10 C°** em fahrenheit, sendo assim
     F = -18 + 32
     F = 14
 
-O aprendizado de uma rede neural consiste na exatamente na descoberta destes valores, os valores que vão permitir que a rede sempre ***"acerte a conta"***, neste caso: **w = 1.8** e **b = 32**. Então esta é a principal pergunta: **Como uma rede neural aprende os valores perfeitos ?**
+O aprendizado de uma rede neural consiste exatamente na descoberta destes valores, os valores que vão permitir que a rede sempre ***"acerte a conta"***, neste caso: **w = 1.8** e **b = 32**. Então esta é a principal pergunta: **Como uma rede neural aprende os valores perfeitos ?**
 
 # Como uma rede neural aprende ?
 
