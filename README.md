@@ -19,7 +19,7 @@ O perceptron é um modelo matemático que visa simular o funcionamento de um neu
 
 Frequentemente se soma um valor de ***viés*** (**bias** ou simplesmente **b**) à ponderação. Não entrarei em detalhes aqui sobre o motivo da introdução desse valor de viés, basta saber que o valor do viés ajuda a rede neural a se adaptar a situações onde a saída desejada não pode ser explicada apenas pelas entradas e pesos.
 
-Por exemplo, se **x = 0** (y = 2 * 0 + 2), é impossível achar o valor **y = 2** sem a introdução do viés.
+Por exemplo, na equação y = 2x + b, se **x = 0** é impossível achar o valor **y = 2** sem a introdução do viés (y = 2 * 0 + 2).
 
 Para facilitar a didática implementarei o perceptron mais simples o possível:
 
